@@ -1,0 +1,42 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12pt;
+  text-align: center;
+  background-color: slategray;
+}
+
+#conversor {
+  text-align: center;
+  display: inline-block;
+  flex-direction: column;
+  width: 20%;
+  background-color: midnightblue;
+  padding: 100px;
+  border-radius: 20px;
+  color: wheat;
+  font-size: 16pt;
+}
+
+#limpar {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 16pt;
+  background-color: wheat;
+  color: midnightblue;
+  border-radius: 10px;
+}
+
+#calcu {
+  margin-top:20px;
+  margin-right: 10px;
+  padding: 10px;
+  font-size: 16pt;
+  background-color: wheat;
+  color: midnightblue;
+  border-radius: 10px;
+}
+
+#n1 {
+  padding: 7px;
+  font-size: 16pt;
+}
